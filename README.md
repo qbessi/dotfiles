@@ -26,8 +26,6 @@ Mostly inspired/stolen from [this rice](https://www.reddit.com/r/unixporn/commen
 
 ## Screenshots
 ![Desktop Screenshot](https://preview.redd.it/yabai-one-dark-osx-v0-nez1eab729ic1.png?width=1080&crop=smart&auto=webp&s=589e1f60e66f8b20bb1e4032cf79a6d72bb4fa29)
-
-![Spotify Screenshot](https://raw.githubusercontent.com/Carbone13/dotfiles/master/.assets/nvim-spotify.png)
   
 ## Usage
 
