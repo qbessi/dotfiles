@@ -1,5 +1,5 @@
 <p align="center">
- My personnal dotfiles for Apple Silicon
+ My personal dotfiles for Apple Silicon
 </p>
 
 #
