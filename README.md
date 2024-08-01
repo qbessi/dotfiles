@@ -1,7 +1,3 @@
-<br />
-<p align="center">
-  <img alt="Dotfiles" src="https://raw.githubusercontent.com/Carbone13/dotfiles/master/.assets/cover.png"/>
- </p>
 <p align="center">
  My personnal dotfiles for Apple Silicon
 </p>
@@ -40,7 +36,7 @@ I generally just install git on the system, by typing `git` in the terminal, whi
 
 Then :
 ```sh
-git clone https://github.com/Carbone13/dotfiles
+git clone https://github.com/qbessi/dotfiles
 cd dotfiles
 ./install
 ```
